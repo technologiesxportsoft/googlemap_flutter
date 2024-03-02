@@ -1,16 +1,5 @@
 # googlemap_flutter
 
-A new Flutter project.
+![Simulator Screenshot - iPhone 15 - 2024-03-02 at 12 47 29](https://github.com/technologiesxportsoft/googlemap_flutter/assets/85728901/07ead9e5-9a37-476d-bcba-ae0062c1c75f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 15 - 2024-03-02 at 12 47 36](https://github.com/technologiesxportsoft/googlemap_flutter/assets/85728901/1be6b455-f1ce-44d8-8f90-0b59959ec5ce)
