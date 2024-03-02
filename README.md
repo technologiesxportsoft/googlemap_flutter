@@ -11,3 +11,7 @@ Location List
 Google Map with location pin point
 
 ![Simulator Screenshot - iPhone 15 - 2024-03-02 at 12 47 36](https://github.com/technologiesxportsoft/googlemap_flutter/assets/85728901/1be6b455-f1ce-44d8-8f90-0b59959ec5ce)
+
+
+## License
+This project is licensed under the [MIT License](LICENSE) by Xportsoft Technologies Pvt Ltd.
